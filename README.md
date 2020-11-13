@@ -16,3 +16,6 @@ The challenge is to build a set of data reports to provide the answers to some o
 
 ### Considerations
 Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes.
+
+### Data
+![Citi Bike Data Link](https://www.citibikenyc.com/system-data)
