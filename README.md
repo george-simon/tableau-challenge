@@ -46,8 +46,13 @@ This Map is highlighting the most popular CitiBike locations in New York as take
 * The 2nd most popular station displayed is *E 17 ST & Broadway* at 72K total trips.
 ![E 17 ST & Broadway](/resources/images/E-17-St-Broadway.png)
 
-#### Total Bike Trips Throughout the Day 2019 (Jul - Dec)
+#### Total Bike Trips Throughout the Day
+This visualization takes the 6-month data sets and shows the total bike trips taken during each hour of the day.
 #### Phenomenon Insights
+The 2019 visualizations shows what someone would expect when looking at bike usage. There are spikes in usage during commuter hours (morning & evening).
+![total-bike-trips-2019](/resources/images/total-bike-trips-2019.png)
+As we expect 2020 data looks a bit different with a drop during the start of the day, but still heavy use in the evening.
+![total-bike-trips-2020](/resources/images/total-bike-trips-2020.png)
 
-#### Total Bike Trips Throughout the Day 2020 (May- Oct)
+#### Total 
 #### Phenomenon Insights
