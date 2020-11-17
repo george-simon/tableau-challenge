@@ -72,5 +72,5 @@ Please note the increase in subscriber minutes used between 2019 and 2020. This 
 ### User Gender Growth Insights
 These visualizations are very straight forward but one can visually see the shift and growth of users self-identifying as unknown/female from 2019 to 2020.
 ![gender-bikeuse-2019](/resources/images/gender-2019.png)
-![gender-bikeuse-2020](/resources/images/gender-2019.png)
+![gender-bikeuse-2020](/resources/images/gender-2020.png)
 
