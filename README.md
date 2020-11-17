@@ -36,7 +36,7 @@ Due to the *Big Data* encountered in this analysis 6-month periods from each yea
 * 2019 - month range (July - December)
 * 2020 - month range (May - October)
 
-### Visualizations
+## Visualizations
 
 #### CitiBike Locations & Popularity 2019 (Jul - Dec)
 This Map is highlighting the most popular CitiBike locations in New York as taken from the six-month 2019 dataset. As the size of the ciricle increases this represents the (sum) trips taken. 
@@ -46,7 +46,7 @@ This Map is highlighting the most popular CitiBike locations in New York as take
 * The 2nd most popular station displayed is *E 17 ST & Broadway* at 72K total trips.
 ![E 17 ST & Broadway](/resources/images/E-17-St-Broadway.png)
 
-#### Total Bike Trips Throughout the Day
+### Total Bike Trips Throughout the Day
 This visualization takes the 6-month data sets and shows the total bike trips taken during each hour of the day.
 #### Phenomenon Insights
 The 2019 visualizations shows what someone would expect when looking at bike usage. There are spikes in usage during commuter hours (morning & evening).
@@ -54,5 +54,23 @@ The 2019 visualizations shows what someone would expect when looking at bike usa
 As we expect 2020 data looks a bit different with a drop during the start of the day, but still heavy use in the evening.
 ![total-bike-trips-2020](/resources/images/total-bike-trips-2020.png)
 
-#### Total 
+### Total Minutes per Bike Used
+This visualization takes the 6-month data sets and shows the total bike minutes put on each bike (as displayed by a bike ID).
+At the center of the visualization are the lower numbered bike ids (the oldest bikes). As you work your way to the out-side of the circle the bike ID's increase. This visualization is highlighting the total minutes with the use of a color scale (as seen on the top right). The darker/bigger the circle the more minutes the bike was used.
 #### Phenomenon Insights
+This visualization is a lot to take in. The interesting thing to note is looking at the larger picture. It seems that the newer bigs towards the outside of the circle make a darker ring (visually showing more minutes used). The conclusion maybe drawn that there will be increased maintenance due to more use on the newer bikes (larger bike IDs). Visually taking care of the 'look' of the bikes could increase use accross the board.
+![bike-wear-2019](/resources/images/bike-wear-2019.png)
+![bike-wear-outer-2019](/resources/images/bike-wear-outer-2019.png)
+
+### User Insights
+These visualizations take a look at the total minutes used for both the customer and subscriber base. It also looks at the years users inputted for their birthyear.
+Please note the increase in subscriber minutes used between 2019 and 2020. This is a great sign for sustained growth and revenue for the CitiBike program.
+* Note: the data spike in users inputting 1969 as their birthyear. This could be a miss-type of 1999 as *1969* or another variable.
+![user-insights-2019](/resources/images/user-insights-2019.png)
+![user-insights-2020](/resources/images/user-insights-2020.png)
+
+### User Gender Growth Insights
+These visualizations are very straight forward but one can visually see the shift and growth of users self-identifying as unknown/female from 2019 to 2020.
+![gender-bikeuse-2019](/resources/images/gender-2019.png)
+![gender-bikeuse-2020](/resources/images/gender-2019.png)
+
