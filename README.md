@@ -38,6 +38,14 @@ Due to the *Big Data* encountered in this analysis 6-month periods from each yea
 
 ### Visualizations
 
+#### CitiBike Locations & Popularity 2019 (Jul - Dec)
+This Map is highlighting the most popular CitiBike locations in New York as taken from the six-month 2019 dataset. As the size of the ciricle increases this represents the (sum) trips taken. 
+#### Phenomenon Insights
+* Most popular station displayed is *Perishing Square North* at 84K total trips. This would be interesting to look at the surrounding envirnment to see if conclusions can be drawn why the popularity. By visually looking at the image below some noteworthy buildings are in close proximity.
+![Perishing Square North](/resources/images/Perishing-Square-North.png)
+* The 2nd most popular station displayed is *E 17 ST & Broadway* at 72K total trips.
+![E 17 ST & Broadway](/resources/images/E-17-St-Broadway.png)
+
 #### Total Bike Trips Throughout the Day 2019 (Jul - Dec)
 #### Phenomenon Insights
 
