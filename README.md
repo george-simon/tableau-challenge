@@ -18,4 +18,15 @@ The challenge is to build a set of data reports to provide the answers to some o
 Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes.
 
 ### Data
-![Citi Bike Data Link](https://www.citibikenyc.com/system-data)
+* [Citi Bike Data Link](https://www.citibikenyc.com/system-data)
+* Tableau Workbook file labelled: "*CitiBike-Insights 2019 vs 2020.twbx*"
+    * Note: Need Tableau Desktop app to open
+
+## Analysis Write-Up
+_____________
+
+### Summary
+This project seek to share insights taken from a 6-month span in 2019 and 2020 through visualizations and data surrounding the Citi Bike's of New York. The hope is to answer the following series of questions:
+* Who is using the bikes? (User Insights)
+* When are the bikes being used?
+* How much are the bikes being used? (wear & tear)
