@@ -30,3 +30,16 @@ This project seek to share insights taken from a 6-month span in 2019 and 2020 t
 * Who is using the bikes? (User Insights)
 * When are the bikes being used?
 * How much are the bikes being used? (wear & tear)
+
+### Data Considerations
+Due to the *Big Data* encountered in this analysis 6-month periods from each year was extracted for analysis. This analysis took place at the start of November 2020. This is why the months are offset.
+* 2019 - month range (July - December)
+* 2020 - month range (May - October)
+
+### Visualizations
+
+#### Total Bike Trips Throughout the Day 2019 (Jul - Dec)
+#### Phenomenon Insights
+
+#### Total Bike Trips Throughout the Day 2020 (May- Oct)
+#### Phenomenon Insights
