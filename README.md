@@ -36,6 +36,11 @@ Due to the *Big Data* encountered in this analysis 6-month periods from each yea
 * 2019 - month range (July - December)
 * 2020 - month range (May - October)
 
+## Data Aggregation
+### Python / Jupyter Notebook
+Most of the aggregation of the data is lined out in the jupyter notebook labelled: "*citibike-data-cleaning*". The data sets consisted of millions of lines so pairing it down to digestable frames to input into Tableau Public was key.
+
+
 ## Visualizations
 
 #### CitiBike Locations & Popularity 2019 (Jul - Dec)
